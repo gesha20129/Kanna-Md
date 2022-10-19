@@ -173,7 +173,7 @@ exports.run = {
 ◦ Swift
 ◦ FARUQOFC`
       client.sendMessageModify(m.chat, captions, m, {
-               title: 'Kanna bot',
+               title: 'Anu bot',
                largeThumb: true,
                thumbnail: await Func.fetchBuffer('https://telegra.ph/file/d5c31ad3dfeb93c67171c.jpg'),
                url: ''
